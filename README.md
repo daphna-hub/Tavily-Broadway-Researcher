@@ -76,23 +76,6 @@ broadway-researcher/
 └── README.md                      
 ```
 
-## 💡 Usage Examples
-
-### Response Query
-
-**Output (TLDR version on UI):**
-
-#Overview
-#Reviews
-#Where to Buy Tickets
-
-**Output (Extended version - download):**
-
-#Overview (extanded version)
-#Reviews and Critical Reception
-#Where to Buy Tickets (including Pricing and Tips)
-
-
 ## 🎨 Design Rationale
 
 ### Agent Architecture
